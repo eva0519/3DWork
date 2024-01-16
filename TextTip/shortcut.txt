@@ -112,6 +112,10 @@ Dyntopo 모드 (우측 상단 ctrl + D)	체크 후 그리기시 많은 페이스
 G	그랩 브러쉬 (픽셀 유동화 같은 기능. 다인토포 적용이 안되므로 페이스가 늘어나거나 하진 않는다)
 
 
+
+우측 상단의 show overay 드롭다운 메뉴의 statics 체크를 통해 버텍스,엣지,페이스의 갯수 확인 가능
+
+
 모디파이어 프로퍼티
 
 데시메이트 모디파이어 (폴리 개수 변경)
@@ -123,8 +127,11 @@ G	그랩 브러쉬 (픽셀 유동화 같은 기능. 다인토포 적용이 안�
 modifier properties - add modifier - generate(mirror) - 축 설정
 Clipping 형상을 함께 고정할 때 사용되는 유용한 옵션 (미러링 중 페이스가 벌어지거나 중첩되지 않는다)
 
+Subdivision Surface( ) : 면을 일정하게 나누어 외부 표면을 부드러운 형태로 만들수 있습니다.
 
-우측 상단의 show overay 드롭다운 메뉴의 statics 체크를 통해 버텍스,엣지,페이스의 갯수 확인 가능
+Shrinkwrap( ) : 플래인 오브젝트를 선택한 모델링 표면에 붙일 수 있습니다
 
+〔Mesh〕 → 〔Shading〕
+→ 〔Smooth Faces〕
 
 
