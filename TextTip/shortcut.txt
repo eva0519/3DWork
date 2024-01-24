@@ -188,8 +188,14 @@ Subdivision Surface( ) : 면을 일정하게 나누어 외부 표면을 부드�
 
 Shrinkwrap( ) : 플래인 오브젝트를 선택한 모델링 표면에 붙일 수 있습니다
 
+Solidify : 페이스의 두께를 생성 (tickness 조절)
+
 〔Mesh〕 → 〔Shading〕
 → 〔Smooth Faces〕
+
+object mode -> object -> smooth shade	전체적으로 부드럽게
+
+property -> Normal -> Auto Smooth	지정한 각도 이상의 페이스만 부드럽게
 
 베벨같은 메뉴는 오브젝트의 스케일을 고려하기 때문에 노치나 홈을 넣을때 스케일에 따라 의도치 않은 결과가 나온다
 (Ctrl + A로 Apply 메뉴에 Scale을 선택하거나 오브젝트 메뉴에서 스케일을 실행)
