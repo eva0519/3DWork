@@ -14,3 +14,12 @@
 <br/>
 ### What Duck
 ![Duck'sWorld](https://github.com/eva0519/3DWork/assets/57734102/6e92ce4f-ff26-4d6f-8578-0d432be3e0af)
+<br/>
+<br/>
+### ETC
+![trophy](https://github.com/eva0519/3DWork/assets/57734102/180d431c-00b8-4250-b5e7-4cdd6a3fec7e)
+![UVRabit](https://github.com/eva0519/3DWork/assets/57734102/4bf99e6f-fa3f-4a02-9c41-6d0904a96bb6)
+![snowman](https://github.com/eva0519/3DWork/assets/57734102/a3dd1928-aa7c-4062-8290-94215deb0d74)
+![rabbit](https://github.com/eva0519/3DWork/assets/57734102/ff76a010-a476-41c6-937e-7f405b0fd4a3)
+![mouse](https://github.com/eva0519/3DWork/assets/57734102/2ae8a64b-02b4-4a40-8a0a-e36d61bc08b0)
+![burger](https://github.com/eva0519/3DWork/assets/57734102/019e8f77-cc31-4da5-8abe-840950bb417f)
