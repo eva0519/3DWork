@@ -22,4 +22,6 @@
 ![snowman](https://github.com/eva0519/3DWork/assets/57734102/a3dd1928-aa7c-4062-8290-94215deb0d74)
 ![rabbit](https://github.com/eva0519/3DWork/assets/57734102/ff76a010-a476-41c6-937e-7f405b0fd4a3)
 ![mouse](https://github.com/eva0519/3DWork/assets/57734102/2ae8a64b-02b4-4a40-8a0a-e36d61bc08b0)
-![burger](https://github.com/eva0519/3DWork/assets/57734102/019e8f77-cc31-4da5-8abe-840950bb417f)
+![bur![sword](https://github.com/eva0519/3DWork/assets/57734102/4b2fb518-dc0e-4d42-8190-48bfb299d0c9)
+ger](https://github.com/eva0519/3DWork/assets/57734102/019e8f77-cc31-4da5-8abe-840950bb417f)
+![rabb](https://github.com/eva0519/3DWork/assets/57734102/0f67f40b-5dd3-49b9-97d2-8d591df39c0d)
