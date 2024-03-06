@@ -25,3 +25,5 @@
 ![bur![sword](https://github.com/eva0519/3DWork/assets/57734102/4b2fb518-dc0e-4d42-8190-48bfb299d0c9)
 ger](https://github.com/eva0519/3DWork/assets/57734102/019e8f77-cc31-4da5-8abe-840950bb417f)
 ![rabb](https://github.com/eva0519/3DWork/assets/57734102/0f67f40b-5dd3-49b9-97d2-8d591df39c0d)
+![sword](https://github.com/eva0519/3DWork/assets/57734102/0a88fff0-ebeb-4257-b018-cdd842cd6c7e)
+![char](https://github.com/eva0519/3DWork/assets/57734102/b594581e-7be3-4f81-b750-aa885dd04003)
